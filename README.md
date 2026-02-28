@@ -29,7 +29,7 @@ Dataset inspirado no projeto de Muhammad Aammar Tufail, desenvolvido com abordag
 
 ---
 
-## 1.2 - Tendência média global do acesso rural (2000–2016)
+## 1.2 - Qual é a tendência média global de acesso à eletricidade rural (2000–2016)?
 
 ![Tendência Rural](images/2.png)
 
@@ -43,7 +43,7 @@ Observa-se crescimento consistente, com aceleração após 2011.
 
 ---
 
-## 1.3 - Países com maior crescimento rural
+## 1.3 - Quais países apresentam o crescimento mais rápido em eletricidade rural?
 
 ![Crescimento Rural](images/3.png)
 
@@ -57,7 +57,7 @@ Predominância de países africanos e do Sul da Ásia.
 
 ---
 
-## 1.4 - Maior disparidade urbano x rural
+## 1.4 - Quais países têm a maior disparidade entre o acesso à eletricidade urbana e rural?
 
 ![Disparidade](images/4.png)
 
@@ -70,7 +70,7 @@ Ainda existem desigualdades estruturais significativas.
 
 # 2️⃣ Energia e Desenvolvimento Econômico
 
-## 2.1 - Top 10 PIB per capita (2023)
+## 2.1 - Os 10 principais países por PIB per capita em 2023?
 
 ![Top PIB](images/5.png)
 
@@ -78,7 +78,7 @@ Concentração na Europa Ocidental e centros financeiros globais.
 
 ---
 
-## 2.2 - Correlação PIB x Acesso
+## 2.2 - Existe correlação entre PIB per capita e acesso à eletricidade?
 
 ![Correlação](images/6.png)
 
@@ -89,7 +89,7 @@ Renda influencia, mas não é determinante isolada.
 
 ---
 
-## 2.3 - Existe um PIB mínimo para universalização?
+## 2.3 - Existe um nível de PIB a partir do qual o acesso tende a ser universal?
 
 ![Threshold PIB](images/7.png)
 
@@ -99,7 +99,7 @@ A evolução do PIB mínimo entre países com acesso universal não segue um pad
 
 # 3️⃣ Demografia e Infraestrutura
 
-## 3.1 - Crescimento populacional global
+## 3.1 - Como a população global mudou (2000–2024)?
 
 ![População](images/8.png)
 
@@ -109,7 +109,7 @@ A evolução do PIB mínimo entre países com acesso universal não segue um pad
 
 ---
 
-## 3.2 - Produção de eletricidade x População
+## 3.2 - Como a produção de eletricidade se relaciona com a população?
 
 ![Produção vs População](images/9.png)
 
@@ -117,7 +117,7 @@ Observa-se uma correlação positiva entre população e produção de eletricid
 
 ---
 
-## 3.3 - Crescimento populacional x Expansão do acesso
+## 3.3 - Países com crescimento populacional alto conseguem expandir acesso?
 
 ![Crescimento Pop](images/10.png)
 
