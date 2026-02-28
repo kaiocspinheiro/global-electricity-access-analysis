@@ -1,6 +1,6 @@
-# 🌍 Análise Global do Acesso à Eletricidade (2000–2024)
+# Análise Global do Acesso à Eletricidade (2000–2024)
 
-## 📌 Contexto
+## Contexto
 
 Este conjunto de dados reúne indicadores do Banco Mundial ao longo de 25 anos, permitindo analisar a relação entre desenvolvimento econômico, dinâmica populacional e acesso à eletricidade em nível global.
 
@@ -10,7 +10,7 @@ Dataset inspirado no projeto de Muhammad Aammar Tufail, desenvolvido com abordag
 
 ---
 
-## 📊 Estrutura da Análise
+## Estrutura da Análise
 
 - 4.880 linhas  
 - 9 colunas  
@@ -35,9 +35,9 @@ Dataset inspirado no projeto de Muhammad Aammar Tufail, desenvolvido com abordag
 
 Entre 2000 e 2016:
 
-- 2000: 68,63%
-- 2016: 78,77%
-- Crescimento: +10,14 p.p.
+- 2000: 68,55%
+- 2016: 78,26%
+- Crescimento: +10,01 p.p.
 
 Observa-se crescimento consistente, com aceleração após 2011.
 
@@ -93,8 +93,7 @@ Renda influencia, mas não é determinante isolada.
 
 ![Threshold PIB](images/7.png)
 
-Não há threshold fixo.  
-Fatores institucionais e tecnológicos influenciam o processo.
+A evolução do PIB mínimo entre países com acesso universal não segue um padrão linear. No início dos anos 2000, observa-se que alguns países com renda per capita relativamente baixa já apresentavam universalização. Entre 2006 e 2012, o nível mínimo de renda entre países universalizados aumentou significativamente, concentrando-se em economias de renda média. No entanto, a partir de 2013 verifica-se nova redução desse valor, indicando que países com menor nível de renda passaram a atingir acesso universal, possivelmente impulsionados por avanços tecnológicos e políticas públicas direcionadas.
 
 ---
 
@@ -114,7 +113,7 @@ Fatores institucionais e tecnológicos influenciam o processo.
 
 ![Produção vs População](images/9.png)
 
-Correlação positiva estrutural, com padrão linear em escala logarítmica.
+Observa-se uma correlação positiva entre população e produção de eletricidade. Países mais populosos tendem a produzir maior volume absoluto de energia. A aplicação da escala logarítmica revela um padrão aproximadamente linear, indicando uma relação estrutural consistente entre tamanho populacional e demanda energética.
 
 ---
 
@@ -122,11 +121,11 @@ Correlação positiva estrutural, com padrão linear em escala logarítmica.
 
 ![Crescimento Pop](images/10.png)
 
-Não há relação clara entre crescimento demográfico e expansão do acesso rural.
+Não dá para dizer que países que crescem mais em população conseguem automaticamente expandir o acesso à eletricidade rural. Os resultados variam bastante, mostrando que o crescimento demográfico por si só não explica a evolução do acesso.
 
 ---
 
-# 🛠 Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - Python
 - Pandas
